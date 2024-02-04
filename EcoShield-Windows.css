@@ -1211,6 +1211,7 @@
   background-image: url("images/ENERGY-LABEL-PAGE-IMAGE-2-487x350-72DPI.jpg");
   margin-bottom: 0;
   margin-top: 0;
+  background-position: 50% 50%;
 }
 
 @media (max-width: 1199px) {
@@ -1258,7 +1259,6 @@
   .u-section-7 .u-image-2 {
     width: 165px;
     height: 165px;
-    background-position: 50% 50%;
     margin-top: -715px;
     margin-right: 33px;
     margin-left: auto;
@@ -1497,6 +1497,48 @@
 }
 
 .u-section-8 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-8 .u-carousel-item-3 {
+  margin-right: 0;
+}
+
+.u-section-8 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-8 .u-carousel-item-4 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-8 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-8 .u-carousel-item-5 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-8 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-8 .u-carousel-item-6 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-8 .u-over-slide-6 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 30px;
 }
