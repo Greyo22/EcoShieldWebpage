@@ -1560,7 +1560,8 @@
 
 .u-section-9 .u-carousel-item-1 {
   margin-right: 0;
-  --effect-scale: 1.25;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-9 .u-over-slide-1 {
@@ -1570,7 +1571,8 @@
 
 .u-section-9 .u-carousel-item-2 {
   margin-right: 0;
-  --effect-scale: 1.25;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-9 .u-over-slide-2 {
@@ -1580,6 +1582,8 @@
 
 .u-section-9 .u-carousel-item-3 {
   margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-9 .u-over-slide-3 {
@@ -1616,6 +1620,28 @@
 }
 
 .u-section-9 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-9 .u-carousel-item-7 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-9 .u-over-slide-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-9 .u-carousel-item-8 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-9 .u-over-slide-8 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 30px;
 }
