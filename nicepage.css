@@ -43675,9 +43675,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-btn-1 {
     margin-top: -120px;
     margin-bottom: 8px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    padding-left: 7px;
+    padding: 2px 14px;
   }
 }
 @media (max-width: 575px) {
