@@ -43660,14 +43660,16 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-image-1 {
-    margin-top: -98px;
-    margin-left: -91px;
-    margin-right: -91px;
+    width: 440px;
+    height: 306px;
+    margin-top: -69px;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-header .u-btn-1 {
-    margin-top: -120px;
-    margin-bottom: 8px;
+    margin-top: -91px;
+    margin-bottom: 16px;
     padding: 2px 14px;
   }
 }
